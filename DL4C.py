@@ -1,3 +1,5 @@
+# Using a deep feed forward network with two hidden layers for performing linear regression and predicting values
+
 from keras.models import Sequential
 from keras.layers import Dense
 from sklearn.datasets import make_regression
